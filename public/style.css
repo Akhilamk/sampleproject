@@ -1,6 +1,6 @@
 body{
 	
-	background-image:url(images/cs1new.jpg);
+	background-image:"{{url('images/cs1new.jpg')}}";
 	background-size: cover;
 	
 }	
