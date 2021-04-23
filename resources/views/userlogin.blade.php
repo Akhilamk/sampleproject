@@ -23,7 +23,7 @@
 				<td><input type="password" placeholder="Password"></td>
 			</tr>
 			<tr>
-				<td><button>LOGIN</button></td>
+				<td><button class="btn btn-outline-success">LOGIN</button></td>
 			</tr>
 			
 		</table>
