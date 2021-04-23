@@ -24,23 +24,9 @@ table{
 	flex-wrap: wrap;
 
 }
-button{
+
 	
-	width: 100px;
-	height: 30px;
-	font-style: italic;
-	font-family:  Georgia, 'Times New Roman', Times, serif;
-	font-size: 15px;
-	border-style: solid;
-	border-style: double;
-	border-radius: 10px;
-	background-color: rgb(121, 111, 111);
-	border-color: lavender;
-	background-image: linear-gradient(grey,red)
-	
-	
-	
-}
+
 input{
 	border-radius: 10px;
 	width: 220px;
