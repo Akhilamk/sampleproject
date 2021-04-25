@@ -21,3 +21,4 @@ Route::get('/', function () {
 Route::view('login','userlogin');
 #to controller
 Route::get('userlogin',[logincontroller::class,'loginpage']);
+

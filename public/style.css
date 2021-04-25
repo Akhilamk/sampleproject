@@ -9,13 +9,13 @@ body{
 table{
 	
 	border-style: double solid unset;
-	border-radius: 20px;
+	border-radius: 10px;
 	border-width: 5px;
 	font-style: initial;
 	font-size: 20px;
-	font-family: serif;
-	margin-top: 70px;
-	margin-left: 500px;
+	font-family:serif;
+	margin-top: 90px;
+	margin-left: 550px;
 	margin-right: 200px;
 	color:white;
 	/*background-image: url(images/back.jpeg);*/
@@ -29,15 +29,18 @@ table{
 
 input{
 	border-radius: 10px;
-	width: 220px;
-	height: 20px;
-	padding: 1px;
+	width: 200px;
+	height: 25px;
+	padding: 2px;
 	text-align: center;
 	
 }
 img{
-	height: 30px;
+	height: 40px;
 	width: 40px;
 
 	
+}
+nav{
+	background-image: linear-gradient(red, white);
 }
